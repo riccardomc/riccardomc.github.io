@@ -77,14 +77,14 @@ body {
   opacity: 50%;
 }
 
-#icon-software{ background-image: url(software.svg); }
-#icon-cloud{ background-image: url(cloud.svg); }
-#icon-grid{ background-image: url(grid.svg); }
-#icon-hand{ background-image: url(hand.svg); }
-#icon-learning{ background-image: url(learning.svg); }
-#icon-theory{ background-image: url(theory.svg); }
-#icon-running{ background-image: url(running.svg); }
-#icon-next{ background-image: url(next.svg); }
+#icon-software{ background-image: url(/icons/software.svg); }
+#icon-cloud{ background-image: url(/icons/cloud.svg); }
+#icon-grid{ background-image: url(/icons/grid.svg); }
+#icon-hand{ background-image: url(/icons/hand.svg); }
+#icon-learning{ background-image: url(/icons/learning.svg); }
+#icon-theory{ background-image: url(/icons/theory.svg); }
+#icon-running{ background-image: url(/icons/running.svg); }
+#icon-next{ background-image: url(/icons/next.svg); }
 
 
 .sun{
