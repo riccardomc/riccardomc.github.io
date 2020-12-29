@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://riccardo.cefala.net/posts/</loc>
+    <lastmod>2020-12-02T16:50:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riccardo.cefala.net/</loc>
+    <lastmod>2020-12-02T16:50:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riccardo.cefala.net/posts/there-once-was-a-blog/</loc>
+    <lastmod>2020-12-02T16:50:09+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://riccardo.cefala.net/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://riccardo.cefala.net/tags/</loc>
+  </url>
+  
+</urlset>
