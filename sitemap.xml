@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://riccardo.cefala.net/about/</loc>
+    <lastmod>2020-12-14T16:08:47+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://riccardo.cefala.net/posts/</loc>
     <lastmod>2020-12-02T16:50:09+01:00</lastmod>
   </url>
