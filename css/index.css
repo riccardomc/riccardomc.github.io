@@ -1,0 +1,163 @@
+
+@media (prefers-color-scheme: light) {
+  html {
+    background: #ffffff;
+    color: #1c1d22;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    background: #1c1d22;
+    color: #ffffff;
+  }
+}
+
+html {
+  font-size: 16px;
+  font-size: calc(0.8rem + 0.3vw);
+}
+
+body {
+  font-family: Classic;
+  font-weight: 400;
+  line-height: 1.6;
+  margin: 0;
+  -webkit-text-size-adjust: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+b, strong, th {
+  font-weight: 600;
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+header time {
+  color: #8e8e91;
+}
+
+hr {
+  border: 1px solid rgba(142, 142, 145, 0.3);
+  margin: 2em 0;
+}
+
+blockquote {
+  background: rgba(142, 142, 145, 0.06);
+  border-left: 3px solid rgba(142, 142, 145, 0.9);
+  padding: 1px 1.5em;
+  opacity: .75;
+}
+
+blockquote, figure {
+  margin: 1em 0;
+}
+
+img, li {
+  margin: .5em 0;
+}
+
+img {
+  border-radius: 5px;
+  max-width: 100%;
+  height: auto;
+  /* center horizontally */
+  margin-left: auto; 
+  margin-right: auto;
+  display: block;
+}
+
+table {
+  width: 100%;
+  border-spacing: 1px;
+  box-shadow: 0 0 0 1px rgba(142, 142, 145, 0.12) inset;
+}
+
+th, td {
+  padding: .5em 1em;
+  box-shadow: 0 0 0 1px rgba(142, 142, 145, 0.12);
+}
+
+tr:hover, tr:nth-child(odd) td {
+  background: rgba(142, 142, 145, 0.04);
+}
+
+pre {
+  background: rgba(142, 142, 145, 0.12);
+  border-radius: 2px;
+  font-size: .8em;
+  /* font-family: fira mono,cousine,Monaco,Menlo,source code pro,monospace; */
+  font-family: 'Courier New', Courier, monospace;
+  margin: 1.5em 0;
+  padding: .8em 1.2em;
+  overflow-x: auto;
+}
+
+:not(pre) > code {
+  font-size: .9em;
+  background: rgba(142, 142, 145, 0.15);
+  /* opacity: .7; */
+  border-radius: 2px;
+  margin: 0 .1em;
+  padding: .2em .4em;
+}
+
+body > header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.02);
+  border-bottom: 0px solid rgba(142, 142, 145, 0.16);
+}
+
+article a {
+    background: linear-gradient(to right, hsla(54,100%,62%,0.4), hsla(54,100%,62%,0.9));
+    background-size: 300% 40%;
+    background-repeat: no-repeat;
+    background-position: 0% 100%;
+    transition-property: background-position;
+    transition-duration: 300ms;
+    padding: 0;
+}
+
+body > header > a {
+  font-size: 1.3em;
+}
+
+article header {
+  margin-bottom: 1.5em;
+}
+
+article header h1 {
+  font-size: 1.8em;
+  margin: 1em 0 3.1em;
+}
+
+nav {
+  margin: .5em -.8em;
+}
+
+nav a {
+  margin: .5em .8em;
+}
+
+footer hr { /* custom */
+  width: 45%;
+  border-style: dashed;
+  margin-bottom: 1em;
+}
+
+body > header, body > article, body > footer {
+  padding: 1.5em;
+}
+
+@media (min-width: 32em) {
+  body > header, body > article, body > footer {
+    padding: 1.75em calc(42% - 12em);
+  }
+}
