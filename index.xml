@@ -6,7 +6,18 @@
     <description>Recent content on Riccardo M. Cefala</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Jan 2021 14:25:15 +0100</lastBuildDate><atom:link href="https://riccardo.cefala.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 May 2021 21:12:12 +0200</lastBuildDate><atom:link href="https://riccardo.cefala.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>the singularity</title>
+      <link>https://riccardo.cefala.net/posts/the-singularity/</link>
+      <pubDate>Tue, 04 May 2021 21:12:12 +0200</pubDate>
+      
+      <guid>https://riccardo.cefala.net/posts/the-singularity/</guid>
+      <description>the singularity Recently I came across this very interesting article about the tendency of companies to outsource critical portions of their businesses.
+ If you outsource too much? Is there a point where you cannot go back and relearn how actually making things work?
+ And I realized that I think about this often in my work as a cloud consultant. Are companies besides themselves with cloud adoption? Am I helping them build systems that are too complex for them to handle?</description>
+    </item>
+    
     <item>
       <title>on professional certifications</title>
       <link>https://riccardo.cefala.net/posts/on-certifications/</link>
