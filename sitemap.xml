@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://riccardo.cefala.net/posts/</loc>
+    <loc>https://riccardo.cefala.net/</loc>
     <lastmod>2021-05-04T21:12:12+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://riccardo.cefala.net/</loc>
+    <loc>https://riccardo.cefala.net/posts/</loc>
     <lastmod>2021-05-04T21:12:12+02:00</lastmod>
   </url>
   
@@ -25,10 +25,6 @@
   <url>
     <loc>https://riccardo.cefala.net/posts/there-once-was-a-blog/</loc>
     <lastmod>2020-12-02T16:50:09+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://riccardo.cefala.net/about/</loc>
   </url>
   
   <url>
